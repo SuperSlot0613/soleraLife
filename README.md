@@ -3,7 +3,7 @@
 
 ![SuperSlot React Nataive Solera](image1.jpg?raw=true "SuperSlot React Nataive SoleraLife ")</br>
 ![](image2.jpg?raw=true "SuperSlot React JS  Myntra Clone")</br>
-![Watch the video](video.gif?raw=true)](https://youtu.be/vt5fpE0bzSY)
+![Watch the video](video.gif?raw=true)]
 
 ## To Run The App On Your Phone Screen
 
