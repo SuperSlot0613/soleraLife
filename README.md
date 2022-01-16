@@ -3,7 +3,8 @@
 
 ![SuperSlot React Nataive Solera]
 <img src="image1.jpg" width="360" height="1080"> <img src="image2.jpg" width="360" height="1080">
-![Watch the video](video.gif?raw=true {width:360,height:1080})]
+
+![Watch the video](video.gif?raw=true)]
 
 ## To Run The App On Your Phone Screen
 
