@@ -1,14 +1,14 @@
 # Solera Life Science Pvt.ltd
 # SuperSlot React Native Coding Test
 
-![SuperSlot React Nataive Solera]
+#SuperSlot React Nataive Solera
 
 
-<img src="image1.jpg" width="360" height="1080"> <img src="image2.jpg" width="360" height="1080">
+<img src="image1.jpg" width="360" height="720"> <img src="image2.jpg" width="360" height="720">
 
-![Watch the video]
+#Watch the video
 
-<img src="video.gif" width="360" height="1080">
+<img src="video.gif" width="360" height="720">
 
 ## To Run The App On Your Phone Screen
 
