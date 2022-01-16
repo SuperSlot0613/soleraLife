@@ -1,9 +1,9 @@
 # Solera Life Science Pvt.ltd
 # SuperSlot React Native Coding Test
 
-![SuperSlot React Nataive Solera](image1.jpg?raw=true "SuperSlot React Nataive SoleraLife ")</br>
-![](image2.jpg?raw=true "SuperSlot React JS  Myntra Clone")</br>
-![Watch the video](video.gif?raw=true)]
+![SuperSlot React Nataive Solera]
+<img src="image1.jpg" width="360" height="1080"> <img src="image2.jpg" width="360" height="1080">
+![Watch the video](video.gif?raw=true {width:360,height:1080})]
 
 ## To Run The App On Your Phone Screen
 
